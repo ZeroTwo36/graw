@@ -6,14 +6,12 @@ Yet another Useless Download Manager for Linux, MacOS and (Maybe) Windows
 The Setup is easy as 1,2,3: 
 ```sh
   git clone https://github.com/ZeroTwo36/graw/
-  ./check.sh
-  make grawinstall
+  ./install.sh
 ```
 (Or on Windows:)
 ```cmd
   git clone https://github.com/ZeroTwo36/graw/
-  .\check.cmd
-  .\make.cmd
+  ::and add it to %path%
 ```
 
 
