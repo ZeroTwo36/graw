@@ -6,7 +6,7 @@ Yet another Useless Download Manager for Linux, MacOS and (Maybe) Windows
 The Setup is easy as 1,2,3: 
 ```sh
   git clone https://github.com/ZeroTwo36/graw/
-  ./install.sh
+  sudo bash ./install.sh
 ```
 (Or on Windows:)
 ```cmd
