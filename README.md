@@ -20,7 +20,7 @@ Aaand that's it!
 ## Basic Usage
 
 The most simple thing you can do with GRaw is downloading Files:
-`graw https://url.to/file.sh`
+`/bin/graw/graw https://url.to/file.sh`
 
 You can also check the help:  
-`graw -H`  
+`/bin/graw/graw -H`  
